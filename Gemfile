@@ -1,5 +1,5 @@
-source :gemcutter
+# source :gemcutter
 
 gemspec
 
-gem 'rails'
+# gem 'rails'
